@@ -1,5 +1,5 @@
 function oogabooga(){
-
+//This is trash
     for (let i=0;i<1000;++i){   
         if(i%15==0){
             console.log("foobar");
